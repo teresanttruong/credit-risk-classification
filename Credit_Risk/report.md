@@ -13,14 +13,14 @@ The loan status data was extracted from the original dataset, and separate train
 Using bulleted lists, describe the balanced accuracy scores and the precision and recall scores of all machine learning models.
 
 * Machine Learning Model 1:
-Accuracy: 95%
-Precision: healthy - 100% ; high-risk - 85%
-Recall: healthy - 99% ; high-risk - 91%
+  * Accuracy: 95%
+  * Precision: healthy - 100% ; high-risk - 85%
+  * Recall: healthy - 99% ; high-risk - 91%
 
 * Machine Learning Model 2:
-Accuracy: 99%
-Precision: healthy - 100% ; high-risk - 84%
-Recall: healthy - 99% ; high-risk - 99%
+  * Accuracy: 99%
+  * Precision: healthy - 100% ; high-risk - 84%
+  * Recall: healthy - 99% ; high-risk - 99%
 
 ## Summary
 
