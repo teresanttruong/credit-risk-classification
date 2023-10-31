@@ -26,4 +26,3 @@ Using bulleted lists, describe the balanced accuracy scores and the precision an
 
 Machine Learning Model 2 is the preferable choice due to its superior overall accuracy, particularly in its capacity to accurately detect high-risk loans 99% of the time, surpassing the 91% achieved by Model 1.
 
-If you do not recommend any of the models, please justify your reasoning.
